@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niranjan Kumar</h1>
 <h3 align="center">A passionate developer and digital marketer from India</h3>
-<img align ="right" alt="coding" width="400" src="	https://camo.githubusercontent.com/4d9f5ecceb711ee…6302f302a37513379765349765f7430696f4a2d5a2e676966"
+<img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711ee…6302f302a37513379765349765f7430696f4a2d5a2e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan-devp&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan-devp" /> </p>
 
